@@ -1,0 +1,1 @@
+# snapstash_web_extension
