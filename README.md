@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Snapstash_web extension</h1>
 <h3> features</h3>
-it used to store the link of website you visit
+it used to store the link of website you visit.
 
 
 :make easy while shopping from multiple websites
