@@ -1,25 +1,21 @@
-<h1 align="center" id="title">Snapstash_web extension</h1>
-<h3> features</h3>
-it used to store the link of website you visit.
+# 📚 Snapstash Web Extension
 
+![Snapstash Web Extension](https://github.com/Ash914027/snapstash_web_extension/blob/main/assets/snapstash_logo.png)
 
-:make easy while shopping from multiple websites..
+**snapstash_web_extension**: A web browser extension to store the URLs of websites you visit.
 
-<h2>Project Screenshots::</h2>
-![Screenshot 2024-04-14 000346](https://github.com/Ash914027/snapstash_web_extension/assets/119170180/b9d80b57-805c-44b7-b212-befdcca16a80
-<h2>🚀 Demo</h2>
-you can download these  files from these repo and load unpacked from web extension..
+## 🚀 Main Features
 
+- 💾 Stores the URLs of websites visited by the user
+- 📂 Provides a convenient way to access and manage the stored URLs
 
+## 🛠️ Technology Stack
 
+- HTML
+- CSS
+- JavaScript
+- Generative AI
 
-  
-  
-<h2>💻 Built with</h2>
+## 📄 License
 
-Technologies used in the project:
-
-*   html
-*   css
-*   javascript
-*   gnerative ai
+The project does not specify a license, so the default copyright applies.
