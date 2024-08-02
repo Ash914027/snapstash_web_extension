@@ -7,7 +7,7 @@
 ## 🚀 Main Features.
 
 - 💾 Stores the URLs of websites visited by the user
-- 📂 Provides a convenient way to access and manage the stored URLs
+- 📂 Provides a convenient way to access and manage the stored URLs.
 
 ## 🛠️ Technology Stack
 
