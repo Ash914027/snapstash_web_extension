@@ -4,7 +4,7 @@
 
 **snapstash_web_extension**: A web browser extension to store the URLs of websites you visit.
 
-## 🚀 Main Features.
+## 🚀 Main Features
 
 - 💾 Stores the URLs of websites visited by the user
 - 📂 Provides a convenient way to access and manage the stored URLs.
